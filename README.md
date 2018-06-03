@@ -18,4 +18,7 @@ ENV['password'] = "YOUR IBM CONVERSATION PASSWORD"
 ENV['workspace_id'] = "YOUR IBM CONVERSATION WORKSPACE_ID"
 ```
 
+and then run `ruby chatbot.rb`
+
+
 basic sinatra chat code from [https://github.com/sinatra/sinatra/blob/master/examples/chat.rb](https://github.com/sinatra/sinatra/blob/master/examples/chat.rb)
